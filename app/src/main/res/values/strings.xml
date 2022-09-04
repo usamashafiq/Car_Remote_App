@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CarRemote</string>
+    <string name="bluetooth_remote_for_car_control">bluetooth_remote_for_car_control</string>
+    <string name="car_remote">car_remote</string>
+    <string name="visual_led">Visual LED</string>
+    <string name="connect">Connect</string>
+    <string name="turn_on">Turn On</string>
+    <string name="bluetoothremoteforcarcontrol">BluetoothRemoteForCarControl</string>
+    <string name="todo">TODO</string>
+    <string name="carunlock">carunlock</string>
+    <string name="carremote">CarRemote</string>
+    <string name="musicon">CarMusic</string>
+    <string name="windowdown">WindowDown</string>
+    <string name="acon">CarAc</string>
+    <string name="windowup">WindowUp</string>
+    <string name="dooropen">DoorOpen</string>
+    <string name="doorclose">DoorClose</string>
+
+
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView" type="id" />
+    <item name="imageshow" type="id" />
+    <item name="pointerSpeedometer1" type="id" />
+</resources>
